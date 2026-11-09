@@ -4,3 +4,6 @@ c69cedc411a11615544062476bd342e9143c8512  Dai-3-Ji Super Robot Taisen Alpha.iso
 f3c95cee67e7af4f11fea54ed5ea2ee9f8f6a1e5  SRWA3_KR_Plus.iso
 # 패치 파일
 b415b6632292357aeae071a2ba940fadfdd0a929  SRWA3_KR_Plus_base.xdelta
+# 확장 패치(시험판) 적용 결과
+caf0cd37b5d0c577cbb3eed6c017f6bfe69d6d4e  SRWA3_KR_Plus_a2units.iso
+c095770efdcff9fc997c3a8c258447739dfb1d61  SRWA3_KR_Plus_a2units_test.xdelta
