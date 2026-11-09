@@ -1,0 +1,6 @@
+# 입력 (한글패치 원본 ISO)
+c69cedc411a11615544062476bd342e9143c8512  Dai-3-Ji Super Robot Taisen Alpha.iso
+# 출력 (기본 패치 적용 결과)
+f3c95cee67e7af4f11fea54ed5ea2ee9f8f6a1e5  SRWA3_KR_Plus.iso
+# 패치 파일
+b415b6632292357aeae071a2ba940fadfdd0a929  SRWA3_KR_Plus_base.xdelta
