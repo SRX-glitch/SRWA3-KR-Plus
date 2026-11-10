@@ -1,13 +1,14 @@
-# v0.2 — 공식 한글패치 v1.1.2s 기준
-# 입력 (일본판 + 공식 한글패치 v1.1.2s, MD5 c1c446a5b3d023944271ec521b13e07e)
-f165ee2f49efebb9d2219126c7e55e49e526e726  Dai-3-Ji Super Robot Taisen Alpha (KR v1.1.2s).iso
-# 출력 (기본 패치 적용 결과)
-d2e70bf585a92fd010a367afe1d0e312b28d69ac  SRWA3_KR_Plus.iso
-# 패치 파일
+# 입력: 일본판 + 공식 한글패치 v1.1.2s(에뮬레이터용)  (MD5 c1c446a5b3d023944271ec521b13e07e)
+f165ee2f49efebb9d2219126c7e55e49e526e726  한글판 ISO
+
+# 기본 패치 v0.2
 0cdb40ecc7b235c0cd27da85fa737fa0a66c1034  SRWA3_KR_Plus_base.xdelta
-# 확장 패치(시험판 v0.2.1, 메모리 확장) 적용 결과
-4cc671aa697bc14eb4881ada1305e8a9c1df6ffb  SRWA3_KR_Plus_a2units.iso
+d2e70bf585a92fd010a367afe1d0e312b28d69ac  SRWA3_KR_Plus.iso (적용 결과)
+
+# 확장 패치 v0.3 (시험판) — 입력은 기본 패치 적용 결과
+98b13a0912bef5c8008cf7f8a11abb9b05fb858f  SRWA3_KR_Plus_a2units_test.xdelta
+a76f6138dca3d3474e3caa8993c6c2f20016aa5c  SRWA3_KR_Plus_a2units.iso (적용 결과)
+
+# 이전 확장 패치 v0.2.1 (참고)
 f61966086d1d05090ddc25b71642af11cf33cf8a  SRWA3_KR_Plus_a2units_test.xdelta
-# 확장 패치 v0.3(시험판, 브레인 파워드 이식) 적용 결과 — 입력은 기본 패치 적용 결과(d2e70bf5…)
-a76f6138dca3d3474e3caa8993c6c2f20016aa5c  SRWA3_KR_Plus_brain.iso
-98b13a0912bef5c8008cf7f8a11abb9b05fb858f  SRWA3_KR_Plus_brain_test.xdelta
+4cc671aa697bc14eb4881ada1305e8a9c1df6ffb  SRWA3_KR_Plus_a2units.iso (적용 결과)
