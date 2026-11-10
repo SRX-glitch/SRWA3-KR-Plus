@@ -31,6 +31,7 @@ ISO는 포함하지 않으며, xdelta 패치만 배포합니다.
    - 한글패치 적용 결과 MD5: `c1c446a5b3d023944271ec521b13e07e` / SHA1: `f165ee2f49efebb9d2219126c7e55e49e526e726` (4,285,595,648 바이트)
    - 한글패치와 한글판 ISO는 이 저장소에서 배포하지 않습니다. 공식 배포처의 안내와 조건을 따라 주세요.
 3. xdelta3(또는 xdelta UI / Delta Patcher)로 적용합니다. 결과는 반드시 **새 파일 이름**으로 저장하세요.
+   - 2026-11-10: 패치 파일을 LZMA 압축 없이 다시 만들었습니다(내용·결과 SHA1 동일). 그 전에 받은 파일이 Delta Patcher 등에서 적용되지 않았다면 새로 받아 주세요.
    ```
    xdelta3 -d -s "원본.iso" SRWA3_KR_Plus_base.xdelta "SRWA3_KR_Plus.iso"
    ```
