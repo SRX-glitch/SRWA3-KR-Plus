@@ -8,3 +8,6 @@ d2e70bf585a92fd010a367afe1d0e312b28d69ac  SRWA3_KR_Plus.iso
 # 확장 패치(시험판 v0.2.1, 메모리 확장) 적용 결과
 4cc671aa697bc14eb4881ada1305e8a9c1df6ffb  SRWA3_KR_Plus_a2units.iso
 f61966086d1d05090ddc25b71642af11cf33cf8a  SRWA3_KR_Plus_a2units_test.xdelta
+# 확장 패치 v0.3(시험판, 브레인 파워드 이식) 적용 결과 — 입력은 기본 패치 적용 결과(d2e70bf5…)
+a76f6138dca3d3474e3caa8993c6c2f20016aa5c  SRWA3_KR_Plus_brain.iso
+98b13a0912bef5c8008cf7f8a11abb9b05fb858f  SRWA3_KR_Plus_brain_test.xdelta
