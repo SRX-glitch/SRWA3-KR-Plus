@@ -1,18 +1,18 @@
 # 입력: 일본판 + 공식 한글패치 v1.1.2s(에뮬레이터용)  (MD5 c1c446a5b3d023944271ec521b13e07e)
 f165ee2f49efebb9d2219126c7e55e49e526e726  한글판 ISO
 
-# 기본 패치 v0.2
+# 기본 패치 v0.3
+27a2fafc4eec663be179cc475b2385ccce9d5416  SRWA3_KR_Plus_base.xdelta
+ecebe60814bf293e8a32aa9715eb88042e99e7a8  SRWA3_KR_Plus.iso (적용 결과)
+
+# 확장 패치 v0.4 (시험판) — 입력은 기본 패치 v0.3 적용 결과
+f42c32b818a9761a14f0dcadc4e66992206ac35d  SRWA3_KR_Plus_a2units_test.xdelta
+cc21aeb9ff181a5570a4fdc45f63eeccc0801838  SRWA3_KR_Plus_a2units.iso (적용 결과)
+
+# 이전 기본 패치 v0.2 (참고)
 0cdb40ecc7b235c0cd27da85fa737fa0a66c1034  SRWA3_KR_Plus_base.xdelta
 d2e70bf585a92fd010a367afe1d0e312b28d69ac  SRWA3_KR_Plus.iso (적용 결과)
 
-# 확장 패치 v0.3.1 (시험판) — 입력은 기본 패치 적용 결과
+# 이전 확장 패치 v0.3.1 (참고) — 입력은 기본 패치 v0.2 적용 결과
 db2afb5f9bffe1c728fa433fdb1f1e4c4e41a638  SRWA3_KR_Plus_a2units_test.xdelta
 c1bd23a6443fb289b11de70853d542c102112563  SRWA3_KR_Plus_a2units.iso (적용 결과)
-
-# 이전 확장 패치 v0.3 (참고)
-98b13a0912bef5c8008cf7f8a11abb9b05fb858f  SRWA3_KR_Plus_a2units_test.xdelta
-a76f6138dca3d3474e3caa8993c6c2f20016aa5c  SRWA3_KR_Plus_a2units.iso (적용 결과)
-
-# 이전 확장 패치 v0.2.1 (참고)
-f61966086d1d05090ddc25b71642af11cf33cf8a  SRWA3_KR_Plus_a2units_test.xdelta
-4cc671aa697bc14eb4881ada1305e8a9c1df6ffb  SRWA3_KR_Plus_a2units.iso (적용 결과)
